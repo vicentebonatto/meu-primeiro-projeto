@@ -9,3 +9,7 @@ Este é meu primeiro projeto usando Git e GitHub.
 
 ## Editando pelo VS Code
 Testando a integração do VS Code com Git!
+
+## Atualização via VS Code
+Esta alteração foi feita em: 2025-02-14 17:36
+Aprendendo a usar Git através do VS Code!
